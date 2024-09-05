@@ -1,5 +1,3 @@
-import Perfil from './assets/perfil.jfif'
-
 interface LinkProps {
   url: string,
   icon: string,
